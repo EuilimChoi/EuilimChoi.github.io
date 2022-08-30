@@ -18,6 +18,8 @@ sidebar_main:
     url: /categories/sql
   - title: "Algorithm"
     url: /categories/algorithm
+  - title: "TIL & ETC"
+    url: /categories/tiletc
 
 docs:
   - title: "대목차"
