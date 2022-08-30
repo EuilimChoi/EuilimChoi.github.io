@@ -8,10 +8,15 @@ main:
     url: /posts/
 
 sidebar_main:
-  - title: "Javascript"
-    url: categories/javascript
-  - title: "react"
-    url: /categories/react
+  - title: "Server"
+    url: categories/Server
+    children:
+     - title : "Node"
+       url: categories/server/node
+     - title : "Architecture"
+       url: categories/server/architecture
+  - title: "Code"
+    url: /categories/Code
   - title: "node"
     url: /categories/node
   - title: "SQL"
@@ -20,6 +25,11 @@ sidebar_main:
     url: /categories/algorithm
   - title: "TIL & ETC"
     url: /categories/tiletc
+    children:
+      - title: "TIL"
+        url:  /categories/tiletc/til
+      - title: "ETC"
+        url:  /categories/tiletc/etc
 
 docs:
   - title: "대목차"
