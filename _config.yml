@@ -256,15 +256,4 @@ defaults:
       comments: true
       share: true
       show_date: true
-      
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: splash
-      author_profile: true
-      read_time: false
-      comments: false
-      share: true
-      related: false  
+    
