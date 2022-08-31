@@ -27,9 +27,9 @@ sidebar_main:
     url: /categories/tiletc
     children:
       - title: "TIL"
-        url:  /categories/tiletc/til
+        url:  /categories/til
       - title: "ETC"
-        url:  /categories/tiletc/etc
+        url:  /categories/etc
 
 docs:
   - title: "대목차"
