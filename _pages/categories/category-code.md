@@ -1,7 +1,7 @@
 ---
 title: "Code"
 layout: archive
-permalink: categories/code
+permalink: categories/cod
 author_profile: true
 sidebar_main: true
 
