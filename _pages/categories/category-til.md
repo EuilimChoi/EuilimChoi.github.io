@@ -1,7 +1,7 @@
 ---
 title: "Today I Learn!"
 layout: archive
-permalink: categories/til
+permalink: categories/t
 author_profile: true
 sidebar_main: true
 
