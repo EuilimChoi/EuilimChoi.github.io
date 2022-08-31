@@ -8,19 +8,17 @@ main:
     url: /posts/
 
 sidebar_main:
-  - title: "Server"
-    url: categories/Server
+  - title: "Backend"
+    url: categories/backend
     children:
-     - title : "Node"
-       url: categories/server/node
-     - title : "Architecture"
-       url: categories/server/architecture
-  - title: "Code"
-    url: /categories/Code
-  - title: "node"
-    url: /categories/node
-  - title: "SQL"
-    url: /categories/sql
+      - title : "Node"
+       url: categories/node
+      - title : "Architecture"
+       url: categories/architecture
+      - title: "Code"
+        url: /categories/code
+      - title: "SQL"
+        url: /categories/sql
   - title: "Algorithm"
     url: /categories/algorithm
   - title: "TIL & ETC"
