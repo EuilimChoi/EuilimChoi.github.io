@@ -1,7 +1,7 @@
 ---
-title: "TIL"
+title: "TIL & ETC"
 layout: archive
-permalink: /categories/tilect/til/
+permalink: '/categories/tilect/'
 author_profile: true
 sidebar_main: true
 
