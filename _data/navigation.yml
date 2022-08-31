@@ -11,14 +11,14 @@ sidebar_main:
   - title: "Backend"
     url: categories/backend
     children:
-    - title : "Node"
-     url: categories/node
-    - title : "Architecture"
-     url: categories/architecture
-    - title: "Code"
-      url: /categories/code
-    - title: "SQL"
-      url: /categories/sql
+      - title : "Node"
+        url: categories/node
+      - title : "Architecture"
+        url: categories/architecture
+      - title: "Code"
+        url: /categories/code
+      - title: "SQL"
+        url: /categories/sql
   - title: "Algorithm"
     url: /categories/algorithm
   - title: "TIL & ETC"
