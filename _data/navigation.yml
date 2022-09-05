@@ -24,14 +24,14 @@ sidebar_main:
   - title: "Algorithm"
     url: /categories/algorithm
   - title: "Project"
-    url: /categories/project  
+    url: /categories/project
   - title: "TIL & ETC"
-  url: /categories/tiletc
-  children:
-    - title: "TIL"
-      url:  /categories/til
-    - title: "ETC"
-      url:  /categories/etc  
+    url: /categories/tiletc
+    children:
+      - title: "TIL"
+        url:  /categories/til
+      - title: "ETC"
+        url:  /categories/etc  
 
 docs:
   - title: "대목차"
